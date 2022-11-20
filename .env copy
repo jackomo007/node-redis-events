@@ -1,0 +1,6 @@
+PORT=
+REDIS_DB_URL=redisURL:redisPORT
+REDIS_DB_USER=redisUserDefault
+REDIS_DB_PASS=redisPassword
+TOKENEXPIRATIONTIME=86400
+JWTSECRET=jwtTokenGenerated
